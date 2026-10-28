@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-linkding is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://linkding.link/
+Linkding is a self‑hosted bookmark manager designed to be minimal, fast, and easy to set up. It offers features such as customizable UI, automatic metadata fetching, archiving, bulk editing, multi‑user support, and browser extensions for Firefox and Chrome. The service provides a REST API for developers to integrate bookmarking functionality into scripts or third‑party applications, and can be deployed via a single Docker container using SQLite as the database.
+
+**Areas:** Company · Bookmark · Self-hosted · Open-source · Docker
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://linkding.link/)
+- [Documentation](https://linkding.link/installation)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/linkding/](https://apis.io/providers/linkding/).
